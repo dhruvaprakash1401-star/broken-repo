@@ -1,0 +1,9 @@
+# Compiled binaries
+*.exe
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Cache directory
+cache/
